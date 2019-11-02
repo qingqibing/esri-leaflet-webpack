@@ -45,7 +45,7 @@
     "webpack": "^1.10.1"
   },
   "devDependencies": {
-    "eslint": "^0.24.1",
+    "eslint": "^6.6.0",
     "eslint-plugin-react": "^2.7.1"
   }
 }
